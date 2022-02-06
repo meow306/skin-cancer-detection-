@@ -1,1 +1,1 @@
-# skin-cancer-detection-
+# Skin_Cancer_Detection_ML
